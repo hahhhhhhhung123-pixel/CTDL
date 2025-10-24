@@ -12,4 +12,3 @@ int main() {
     cout << "Factorial of " << x << " is " << result << endl;
     return 0;
 }
-s
